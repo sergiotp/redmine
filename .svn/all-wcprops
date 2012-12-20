@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/redmine/!svn/ver/10848/branches/2.1-stable
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/10703/branches/2.1-stable/.hgignore
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/redmine/!svn/ver/10366/branches/2.1-stable/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/redmine/!svn/ver/10366/branches/2.1-stable/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/redmine/!svn/ver/10703/branches/2.1-stable/.gitignore
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/redmine/!svn/ver/10848/branches/2.1-stable/Gemfile
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/10366/branches/2.1-stable/config.ru
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/fixtures
+END
+mixin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/fixtures/mixin.rb
+END
+mixins.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/10366/branches/2.1-stable/lib/plugins/acts_as_tree/test/fixtures/mixins.yml
+END

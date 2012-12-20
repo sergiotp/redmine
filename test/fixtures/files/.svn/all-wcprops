@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files
+END
+iso8859-1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/iso8859-1.txt
+END
+japanese-utf-8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/japanese-utf-8.txt
+END
+060719210727_changeset_iso8859-1.diff
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/060719210727_changeset_iso8859-1.diff
+END
+060719210727_changeset_utf8.diff
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/060719210727_changeset_utf8.diff
+END
+101123161450_testfile_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/101123161450_testfile_1.png
+END
+060719210727_archive.zip
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/060719210727_archive.zip
+END
+060719210727_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/060719210727_source.rb
+END
+101223161450_testfile_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/101223161450_testfile_2.png
+END
+testfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/files/testfile.txt
+END

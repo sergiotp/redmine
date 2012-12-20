@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/diffs
+END
+partials.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/diffs/partials.diff
+END
+subversion.diff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/10366/branches/2.1-stable/test/fixtures/diffs/subversion.diff
+END
